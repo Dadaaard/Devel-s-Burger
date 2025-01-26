@@ -1,0 +1,1 @@
+<img class="logo" src="images/2ndlogo.png" alt="logo" style="width:30%; margin-left:auto; margin-right:auto; ">
